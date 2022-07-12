@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-ocyppf/static/css/main.2b58d6d0.chunk.css",
+    "main.js": "https://.github.io/csb-ocyppf/static/js/main.3180831f.chunk.js",
+    "main.js.map": "https://.github.io/csb-ocyppf/static/js/main.3180831f.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-ocyppf/static/js/runtime-main.bbe4397e.js",
+    "runtime-main.js.map": "https://.github.io/csb-ocyppf/static/js/runtime-main.bbe4397e.js.map",
+    "static/css/2.cbedb215.chunk.css": "https://.github.io/csb-ocyppf/static/css/2.cbedb215.chunk.css",
+    "static/js/2.e7338b2c.chunk.js": "https://.github.io/csb-ocyppf/static/js/2.e7338b2c.chunk.js",
+    "static/js/2.e7338b2c.chunk.js.map": "https://.github.io/csb-ocyppf/static/js/2.e7338b2c.chunk.js.map",
+    "index.html": "https://.github.io/csb-ocyppf/index.html",
+    "static/css/2.cbedb215.chunk.css.map": "https://.github.io/csb-ocyppf/static/css/2.cbedb215.chunk.css.map",
+    "static/css/main.2b58d6d0.chunk.css.map": "https://.github.io/csb-ocyppf/static/css/main.2b58d6d0.chunk.css.map",
+    "static/js/2.e7338b2c.chunk.js.LICENSE.txt": "https://.github.io/csb-ocyppf/static/js/2.e7338b2c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbe4397e.js",
+    "static/css/2.cbedb215.chunk.css",
+    "static/js/2.e7338b2c.chunk.js",
+    "static/css/main.2b58d6d0.chunk.css",
+    "static/js/main.3180831f.chunk.js"
+  ]
+}
